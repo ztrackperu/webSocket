@@ -1,0 +1,7 @@
+
+  git branch -M main
+  git remote add origin https://github.com/ztrackperu/webSocket.git
+  git add . 
+  git commit -am " base "
+  git push -u origin main
+
